@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align='center'> Hello there! 👋</h1>
 <!--
 **Yusakha/Yusakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Yusakha github stats](https://github-readme-stats.vercel.app/api?username=Yusakha&show_icons=true&theme=buefy&show_owner=true)
+___
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusakha&theme=buefy&hide=css,html)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusakha&repo=Rin&theme=buefy)](https://github.com/Yusakha/Rin)
