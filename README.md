@@ -4,4 +4,4 @@
 ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusakha&theme=buefy&hide=css,html)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusakha&repo=Rin&theme=buefy)](https://github.com/Yusakha/Rin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yusakha&repo=Chi&theme=buefy)](https://github.com/Yusakha/Chi)
